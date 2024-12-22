@@ -26,5 +26,5 @@ This Python project provides tools for generating secure and customizable passwo
     python <script_name>.py
 ---
 ##### Reqiurments 
-    python 3.9
+    Python 3.x
     pip install nltk
